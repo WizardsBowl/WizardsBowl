@@ -9,6 +9,7 @@ I'm a college student who sometimes do some coding.
 
 ### Social
 
+[weibo](https://weibo.com/u/9188103579)  
 [bilibili](https://space.bilibili.com/1735847445)
 
 ### Email
