@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+I'm a college student who sometimes do some coding.
+
+### Blog
+
+<https://www.wizardsbowl.com>  
+<https://www.wzb233.com>
+
+### Social
+
+[bilibili](https://space.bilibili.com/1735847445)
+
+### Email
+
+<wizardsbowl233@outlook.com>
+
+### Pronouns
+
+He/him
+
 <!--
 **WizardsBowl/WizardsBowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
