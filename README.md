@@ -4,8 +4,8 @@ I'm a college student who sometimes do some coding.
 
 ### Blog
 
-<https://www.wizardsbowl.com>  
-<https://www.wzb233.com>
+<https://blog.wizardsbowl.com>  
+<https://blog.wzb233.com>
 
 ### Social
 
